@@ -1,14 +1,69 @@
 <h1 align="center">Hi 👋, I'm Koalhack 💻</h1>
 <h3 align="center">A passionate full stack koala🐨 developper !</h3>
 
+<h3 align="left">Languages :</h3>
+
+![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&labelColor=8444ff&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-222222?style=flat&labelColor=8444ff&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-222222?style=flat&labelColor=8444ff&logo=go&logoColor=white)
+![LUA](https://img.shields.io/badge/-LUA-222222?style=flat&labelColor=8444ff&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-222222?style=flat&labelColor=8444ff&logo=python&logoColor=white)
+
+![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&labelColor=8444ff&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&labelColor=8444ff&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-222222?style=flat&labelColor=8444ff&logo=markdown&logoColor=white)
+
+![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&labelColor=8444ff&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&labelColor=8444ff&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/-LESS-222222?style=flat&labelColor=8444ff&logo=less&logoColor=white)
+
+![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&labelColor=8444ff&logo=gnubash&logoColor=white)
+![AHK](https://img.shields.io/badge/-AutoHotKey-222222?style=flat&labelColor=8444ff&logo=autohotkey&logoColor=white)
+
+<h3 align="left"> Frameworks 🎆 / Libraries 📚 :</h3>
+
+![React](https://img.shields.io/badge/-React-222222?style=flat&labelColor=8444ff&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&labelColor=8444ff&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&labelColor=8444ff&logo=angular&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&labelColor=8444ff&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&labelColor=8444ff&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-222222?style=flat&labelColor=8444ff&logo=bulma&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/-Chakra%20UI-222222?style=flat&labelColor=8444ff&logo=chakraui&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-222222?style=flat&labelColor=8444ff&logo=mui&logoColor=white)
+
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-222222?style=flat&labelColor=8444ff&logo=express&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-222222?style=flat&labelColor=8444ff&logo=puppeteer&logoColor=white)
+
+<h3 align="left">Tools 🛠️ :</h3>
+
+![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat&labelColor=8444ff&logo=neovim&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-222222?style=flat&labelColor=8444ff&logo=windowsterminal&logoColor=white)
+![iTerm2](https://img.shields.io/badge/-iTerm2-222222?style=flat&labelColor=8444ff&logo=iterm2&logoColor=white)
+![Alacritty](https://img.shields.io/badge/-Alacritty-222222?style=flat&labelColor=8444ff&logo=alacritty&logoColor=white)
+
+![Fish](https://img.shields.io/badge/-Fish-222222?style=flat&labelColor=8444ff&logo=fish&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&labelColor=8444ff&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&labelColor=8444ff&logo=git&logoColor=white)
+![Wakatime](https://img.shields.io/badge/-Wakatime-222222?style=flat&labelColor=8444ff&logo=wakatime&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&labelColor=8444ff&logo=docker&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-222222?style=flat&labelColor=8444ff&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&labelColor=8444ff&logo=electron&logoColor=white)
+
+<h3 align="left">Operating System 🖥️ :</h3>
+
+![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&labelColor=8444ff&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-222222?style=flat&labelColor=8444ff&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&labelColor=8444ff&logo=Ubuntu&logoColor=white)
+![Synology](https://img.shields.io/badge/-Synology-222222?style=flat&labelColor=8444ff&logo=synology&logoColor=white)
+![Raspbian](https://img.shields.io/badge/-Raspbian-222222?style=flat&labelColor=8444ff&logo=raspberrypi&logoColor=white)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="koala_san" height="30" width="40" /></a>
 <a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koalhack" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/koalhack"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koalhack" /></a></p><br><br>
