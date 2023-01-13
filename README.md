@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Koalhack 💻</h1>
-<h3 align="center">A passionate full stack koala🐨 developper !</h3>
+[![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
+<h2 align="center" style="color:#cccccc;font-size:1em">A passionate full stack koala 🐨 developper !</h2>
 
 <h3 align="left">Languages :</h3>
 
@@ -7,9 +7,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-222222?style=flat&labelColor=8444ff&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-222222?style=flat&labelColor=8444ff&logo=go&logoColor=white)
 ![LUA](https://img.shields.io/badge/-LUA-222222?style=flat&labelColor=8444ff&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-222222?style=flat&labelColor=8444ff&logo=python&logoColor=white)
 
-![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&labelColor=8444ff&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&labelColor=8444ff&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-222222?style=flat&labelColor=8444ff&logo=markdown&logoColor=white)
 
