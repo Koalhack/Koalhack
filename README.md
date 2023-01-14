@@ -63,19 +63,21 @@ and I always want to learn more about this noble field 🧠.</p>
 </ul>
 
 <section id="connect">
-<h2>Connect with me 👍🗨️</h2>
-<ul>
-  <li>
-    <a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-111111?style=flat-square&logo=dev.to&logoColor=white" alt="koala_san"/></a>
-  </li>
-  <li>
-    <a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-111111?style=flat-square&logo=medium&logoColor=color" alt="@koalhack"/></a>
-  </li>
-</ul>
+  <h2>Connect with me 👍🗨️</h2>
+  <ul>
+    <li>
+      <a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-111111?style=flat-square&logo=dev.to&logoColor=white" alt="koala_san"/></a>
+    </li>
+    <li>
+      <a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-111111?style=flat-square&logo=medium&logoColor=color" alt="@koalhack"/></a>
+    </li>
+  </ul>
 </section>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/koalhack"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koalhack" /></a></p><br><br>
+<section id="support">
+  <h3 align="left">Support:</h3>
+  <a href="https://www.buymeacoffee.com/koalhack"> <img align="left" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-111111?style=for-the-badge&logo=buymeacoffee&labelColor=f7d600&logoColor=white" alt="koalhack" /></a>
+</section>
 
 <style>
  #techStack {
@@ -103,7 +105,7 @@ and I always want to learn more about this noble field 🧠.</p>
     gap: 0.5em;
   }
 
-  #connect {
+  #connect, #support {
     display: flex;
     flex-direction: column;
     align-items: center;
