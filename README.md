@@ -1,6 +1,9 @@
 [![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
-<h2 align="center" style="color:#cccccc;font-size:1em">A passionate full stack koala 🐨 developper !</h2>
-
+<h2 align="center" style="color:#cccccc;font-size:1em">
+Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
+I'm a French student, I'm 22 years old.
+I'm passionate about computer science 💻 since I was 11 years old 👶
+and I always want to learn more about this noble field 🧠.</h2>
 <h3 align="left">Languages :</h3>
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&labelColor=8444ff&logo=javascript&logoColor=white)
