@@ -46,19 +46,34 @@
             <img src="https://img.shields.io/badge/-LESS-111111?style=flat-square&labelColor=1b3352&logo=less&logoColor=white" alt="LESS" />
             <img src="https://img.shields.io/badge/-Bash-111111?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
             <img src="https://img.shields.io/badge/-AutoHotKey-111111?style=flat-square&labelColor=00a501&logo=autohotkey&logoColor=white" alt="AutoHotKey" />
+            <img src="https://img.shields.io/badge/-Arduino-111111?style=flat-square&labelColor=3595cf&logo=arduino&logoColor=white" alt="AutoHotKey" />
           </div>
         </td>
       </tr>
       <tr>
-        <th>Frameworks🎆/Libraries📚</th>
+        <th>Frameworks🎆</br>Libraries📚</th>
         <td>
           <div>
             <img src="https://img.shields.io/badge/-React-111111?style=flat-square&labelColor=00d5f7&logo=react&logoColor=white" alt="React" />
             <img src="https://img.shields.io/badge/-TailwindCSS-111111?style=flat-square&labelColor=47a9ae&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
             <img src="https://img.shields.io/badge/-Bootstrap-111111?style=flat-square&labelColor=7710f1&logo=bootstrap&logoColor=white" alt="Bootstrap" />
             <img src="https://img.shields.io/badge/-Chakra%20UI-111111?style=flat-square&labelColor=28b5aa&logo=chakraui&logoColor=white" alt="ChakraUI" />
+            <img src="https://img.shields.io/badge/-Chart.js-111111?style=flat-square&labelColor=F37273&logo=chart.js&logoColor=white" alt="ChakraUI" />
             <img src="https://img.shields.io/badge/-ExpressJS-111111?style=flat-square&logo=express&logoColor=white" alt="ExpressJS" />
             <img src="https://img.shields.io/badge/-Puppeteer-111111?style=flat-square&labelColor=04c997&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+            <img src="https://img.shields.io/badge/-Vite-111111?style=flat-square&labelColor=946DF2&logo=vite&logoColor=white" alt="Puppeteer" />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <th>Databases🗳️</th>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/-MySQL-111111?style=flat-square&labelColor=DD8A00&logo=mysql&logoColor=white" alt="React" />
+            <img src="https://img.shields.io/badge/-SQLite-111111?style=flat-square&labelColor=3394D0&logo=sqlite&logoColor=white" alt="TailwindCSS" />
+            <img src="https://img.shields.io/badge/-MariaDB-111111?style=flat-square&labelColor=BA7257&logo=mariadb&logoColor=white" alt="Bootstrap" />
+            <img src="https://img.shields.io/badge/-MongoDB-111111?style=flat-square&labelColor=3E9E36&logo=mongodb&logoColor=white" alt="ChakraUI" />
+            <img src="https://img.shields.io/badge/-CouchDB-111111?style=flat-square&labelColor=DD2427&logo=apachecouchdb&logoColor=white" alt="ExpressJS" />
           </div>
         </td>
       </tr>
@@ -67,24 +82,25 @@
        <td>
         <div>
           <img src="https://img.shields.io/badge/-Neovim-111111?style=flat-square&labelColor=83ba64&logo=neovim&logoColor=white" alt="Neovim" />
-          <img src="https://img.shields.io/badge/-Windows%20Terminal-111111?style=flat-square&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
-          <img src="https://img.shields.io/badge/-iTerm2-111111?style=flat-square&logo=iterm2&logoColor=white" alt="iTerm2" />
           <img src="https://img.shields.io/badge/-Alacritty-111111?style=flat-square&labelColor=eb5d00&logo=alacritty&logoColor=white" alt="Alacritty" />
-          <img src="https://img.shields.io/badge/-Fish-111111?style=flat-square&logo=fish&logoColor=white" alt="fish" />
           <img src="https://img.shields.io/badge/-Git-111111?style=flat-square&labelColor=e44d30&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/-Wakapi-111111?style=flat-square&labelColor=2F855A&logo=wakatime&logoColor=white" alt="Git" />
           <img src="https://img.shields.io/badge/-Docker-111111?style=flat-square&labelColor=228fe1&logo=docker&logoColor=white" alt="Git" />
           <img src="https://img.shields.io/badge/-NodeJS-111111?style=flat-square&labelColor=6ea45f&logo=node.js&logoColor=white" alt="NodeJS" />
+          <img src="https://img.shields.io/badge/-Npm-111111?style=flat-square&labelColor=DD2427&logo=npm&logoColor=white" alt="NodeJS" />
           <img src="https://img.shields.io/badge/-Electron-111111?style=flat-square&labelColor=99e1ef&logo=electron&logoColor=white" alt="Electron" />
+          <img src="https://img.shields.io/badge/-Microsoft%20Azure-111111?style=flat-square&labelColor=206DB1&logo=microsoftazure&logoColor=white" alt="Electron" />
         </div>
        </td>
       </tr>
       <tr>
-        <th>OperatingSystem🖥️</th>
+        <th>Operating System 🖥️</th>
         <td>
           <div>
             <img src="https://img.shields.io/badge/-Windows-111111?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
             <img src="https://img.shields.io/badge/-MacOS-111111?style=flat-square&logo=apple&logoColor=white" alt="MacOS" />
-            <img src="https://img.shields.io/badge/-Ubuntu-111111?style=flat-square&logo=Ubuntu&logoColor=d24413" alt="Ubuntu" />
+            <img src="https://img.shields.io/badge/-Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=d24413" alt="Ubuntu" />
+            <img src="https://img.shields.io/badge/-Debian-111111?style=flat-square&logo=debian&logoColor=D0074E" alt="Ubuntu" />
             <img src="https://img.shields.io/badge/-Synology-111111?style=flat-square&logo=synology&logoColor=white" alt="Synology" />
             <img src="https://img.shields.io/badge/-Raspbian-111111?style=flat-square&logo=raspberrypi&logoColor=b2103f" alt="Raspbian" />
           </div>
