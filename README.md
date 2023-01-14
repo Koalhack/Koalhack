@@ -1,64 +1,65 @@
 [![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
-<h2 align="center" style="color:#cccccc;font-size:1em">
+<p align="center" style="color:#cccccc;font-size:1em">
 Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
 I'm a French student, I'm 22 years old.
 I'm passionate about computer science 💻 since I was 11 years old 👶
-and I always want to learn more about this noble field 🧠.</h2>
-<h3 align="left">Languages :</h3>
+and I always want to learn more about this noble field 🧠.</p>
 
-![Javascript](https://img.shields.io/badge/-JavaScript-222222?style=flat&labelColor=8444ff&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-222222?style=flat&labelColor=8444ff&logo=typescript&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-222222?style=flat&labelColor=8444ff&logo=go&logoColor=white)
-![LUA](https://img.shields.io/badge/-LUA-222222?style=flat&labelColor=8444ff&logo=lua&logoColor=white)
+<h2 align="center">🌟 Tech Stack 🌟</h2>
 
-![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&labelColor=8444ff&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-222222?style=flat&labelColor=8444ff&logo=markdown&logoColor=white)
-
-![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&labelColor=8444ff&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-222222?style=flat&labelColor=8444ff&logo=sass&logoColor=white)
-![LESS](https://img.shields.io/badge/-LESS-222222?style=flat&labelColor=8444ff&logo=less&logoColor=white)
-
-![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&labelColor=8444ff&logo=gnubash&logoColor=white)
-![AHK](https://img.shields.io/badge/-AutoHotKey-222222?style=flat&labelColor=8444ff&logo=autohotkey&logoColor=white)
-
-<h3 align="left"> Frameworks 🎆 / Libraries 📚 :</h3>
-
-![React](https://img.shields.io/badge/-React-222222?style=flat&labelColor=8444ff&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&labelColor=8444ff&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&labelColor=8444ff&logo=angular&logoColor=white)
-
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&labelColor=8444ff&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&labelColor=8444ff&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/-Bulma-222222?style=flat&labelColor=8444ff&logo=bulma&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/-Chakra%20UI-222222?style=flat&labelColor=8444ff&logo=chakraui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/-Material%20UI-222222?style=flat&labelColor=8444ff&logo=mui&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-222222?style=flat&labelColor=8444ff&logo=express&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-222222?style=flat&labelColor=8444ff&logo=puppeteer&logoColor=white)
-
-<h3 align="left">Tools 🛠️ :</h3>
-
-![Neovim](https://img.shields.io/badge/-Neovim-222222?style=flat&labelColor=8444ff&logo=neovim&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-222222?style=flat&labelColor=8444ff&logo=windowsterminal&logoColor=white)
-![iTerm2](https://img.shields.io/badge/-iTerm2-222222?style=flat&labelColor=8444ff&logo=iterm2&logoColor=white)
-![Alacritty](https://img.shields.io/badge/-Alacritty-222222?style=flat&labelColor=8444ff&logo=alacritty&logoColor=white)
-
-![Fish](https://img.shields.io/badge/-Fish-222222?style=flat&labelColor=8444ff&logo=fish&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&labelColor=8444ff&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&labelColor=8444ff&logo=git&logoColor=white)
-![Wakatime](https://img.shields.io/badge/-Wakatime-222222?style=flat&labelColor=8444ff&logo=wakatime&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&labelColor=8444ff&logo=docker&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-222222?style=flat&labelColor=8444ff&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-222222?style=flat&labelColor=8444ff&logo=electron&logoColor=white)
-
-<h3 align="left">Operating System 🖥️ :</h3>
-
-![Windows](https://img.shields.io/badge/-Windows-222222?style=flat&labelColor=8444ff&logo=windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/-MacOS-222222?style=flat&labelColor=8444ff&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-222222?style=flat&labelColor=8444ff&logo=Ubuntu&logoColor=white)
-![Synology](https://img.shields.io/badge/-Synology-222222?style=flat&labelColor=8444ff&logo=synology&logoColor=white)
-![Raspbian](https://img.shields.io/badge/-Raspbian-222222?style=flat&labelColor=8444ff&logo=raspberrypi&logoColor=white)
+<ul align="center" id="techStack">
+  <li class="card">
+    <h3 align="left">Languages⌨️</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-JavaScript-111111?style=flat-square&labelColor=efd81d&logo=javascript&logoColor=white" alt="Javascript" />
+      <img src="https://img.shields.io/badge/-Typescript-111111?style=flat-square&labelColor=2f74c0&logo=typescript&logoColor=white" alt="Typescript" />
+      <img src="https://img.shields.io/badge/-Golang-111111?style=flat-square&labelColor=00a7d0&logo=go&logoColor=white" alt="Golang" />
+      <img src="https://img.shields.io/badge/-Lua-111111?style=flat-square&labelColor=00007c&logo=lua&logoColor=white" alt="Lua" />
+      <img src="https://img.shields.io/badge/-HTML5-111111?style=flat-square&labelColor=dd4b25&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/-Markdown-111111?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+      <img src="https://img.shields.io/badge/-CSS3-111111?style=flat-square&labelColor=3595cf&logo=css3&logoColor=white" alt="CSS" />
+      <img src="https://img.shields.io/badge/-SASS-111111?style=flat-square&labelColor=c76395&logo=sass&logoColor=white" alt="SASS" />
+      <img src="https://img.shields.io/badge/-LESS-111111?style=flat-square&labelColor=1b3352&logo=less&logoColor=white" alt="LESS" />
+      <img src="https://img.shields.io/badge/-Bash-111111?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/-AutoHotKey-111111?style=flat-square&labelColor=00a501&logo=autohotkey&logoColor=white" alt="AutoHotKey" />
+    </div>
+  </li>
+  <li class="card">
+    <h3 align="left">Frameworks🎆/Libraries📚</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-React-111111?style=flat-square&labelColor=00d5f7&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/-TailwindCSS-111111?style=flat-square&labelColor=47a9ae&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/-Bootstrap-111111?style=flat-square&labelColor=7710f1&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/-Chakra%20UI-111111?style=flat-square&labelColor=28b5aa&logo=chakraui&logoColor=white" alt="ChakraUI" />
+      <img src="https://img.shields.io/badge/-ExpressJS-111111?style=flat-square&logo=express&logoColor=white" alt="ExpressJS" />
+      <img src="https://img.shields.io/badge/-Puppeteer-111111?style=flat-square&labelColor=04c997&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+    </div>
+  </li>
+  <li class="card">
+    <h3 align="left">Tools🛠️</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-Neovim-111111?style=flat-square&labelColor=83ba64&logo=neovim&logoColor=white" alt="Neovim" />
+      <img src="https://img.shields.io/badge/-Windows%20Terminal-111111?style=flat-square&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+      <img src="https://img.shields.io/badge/-iTerm2-111111?style=flat-square&logo=iterm2&logoColor=white" alt="iTerm2" />
+      <img src="https://img.shields.io/badge/-Alacritty-111111?style=flat-square&labelColor=eb5d00&logo=alacritty&logoColor=white" alt="Alacritty" />
+      <img src="https://img.shields.io/badge/-Fish-111111?style=flat-square&logo=fish&logoColor=white" alt="fish" />
+      <img src="https://img.shields.io/badge/-Git-111111?style=flat-square&labelColor=e44d30&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-Docker-111111?style=flat-square&labelColor=228fe1&logo=docker&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-NodeJS-111111?style=flat-square&labelColor=6ea45f&logo=node.js&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/-Electron-111111?style=flat-square&labelColor=99e1ef&logo=electron&logoColor=white" alt="Electron" />
+    </div>
+  </li>
+  <li class="card">
+    <h3 align="left">OperatingSystem🖥️</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-Windows-111111?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+      <img src="https://img.shields.io/badge/-MacOS-111111?style=flat-square&logo=apple&logoColor=white" alt="MacOS" />
+      <img src="https://img.shields.io/badge/-Ubuntu-111111?style=flat-square&logo=Ubuntu&logoColor=d24413" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/-Synology-111111?style=flat-square&logo=synology&logoColor=white" alt="Synology" />
+      <img src="https://img.shields.io/badge/-Raspbian-111111?style=flat-square&logo=raspberrypi&logoColor=b2103f" alt="Raspbian" />
+    </div>
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,3 +69,30 @@ and I always want to learn more about this noble field 🧠.</h2>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/koalhack"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koalhack" /></a></p><br><br>
+
+<style>
+ #techStack {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.2em;
+  }
+
+  .card {
+    border: 1px solid #23282f;
+    border-radius: 0.5em;
+    padding: 0.5em 0.8em;
+    list-style: none;
+   }
+
+  .card > h3 {
+    font-size: 0.9em;
+    font-weight: normal;
+    color: #4b8cd7;
+  }
+
+  .card > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+  }
+</style>
