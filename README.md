@@ -1,5 +1,16 @@
 [![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
 
+<section id="badge">
+<h3 align="left">Support:</h3>
+<ul>
+ <li>
+    <img src="https://badges.pufler.dev/visits/Koalhack/Koalhack" alt="koalhack" />
+    <img src="https://badges.pufler.dev/repos/Koalhack"/>
+    <img src="https://badges.pufler.dev/commits/monthly/Koalhack" />
+ </li>
+</ul>
+</section>
+
 <section id="intro">
   <p align="center">
   Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
@@ -113,20 +124,22 @@
     gap: 0.5em;
   }
 
-  #connect, #support {
+  #connect, #support, #badge{
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  #connect > ul {
+  #connect > ul,
+  #badge > ul {
     display: flex;
     gap: 0.8em;
     list-style: none;
   }
 
-  #connect > ul > li{
+  #connect > ul > li,
+  #bage > ul > li{
     display: block;
   }
 
