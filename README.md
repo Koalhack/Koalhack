@@ -1,10 +1,12 @@
 [![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
 
-<p align="center" style="color:#cccccc;font-size:1em">
-Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
-I'm a French student, I'm 22 years old.
-I'm passionate about computer science 💻 since I was 11 years old 👶
-and I always want to learn more about this noble field 🧠.</p>
+<section id="intro">
+  <p align="center">
+  Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
+  I'm a French student, I'm 22 years old.
+  I'm passionate about computer science 💻 since I was 11 years old 👶
+  and I always want to learn more about this noble field 🧠.</p>
+</section>
 
 <h2 align="center">🌟 Tech Stack 🌟</h2>
 
@@ -80,6 +82,12 @@ and I always want to learn more about this noble field 🧠.</p>
 </section>
 
 <style>
+  #intro > p {
+    text-align: center;
+    font-size: 1em;
+    color: #cccccc;
+  }
+
  #techStack {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
