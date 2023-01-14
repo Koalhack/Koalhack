@@ -1,4 +1,5 @@
 [![MasterHead](./assets/banner.png)](https://github.com/Koalhack)
+
 <p align="center" style="color:#cccccc;font-size:1em">
 Well hello ✋, I am Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
 I'm a French student, I'm 22 years old.
@@ -61,11 +62,17 @@ and I always want to learn more about this noble field 🧠.</p>
   </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="koala_san" height="30" width="40" /></a>
-<a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koalhack" height="30" width="40" /></a>
-</p>
+<section id="connect">
+<h2>Connect with me 👍🗨️</h2>
+<ul>
+  <li>
+    <a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-111111?style=flat-square&logo=dev.to&logoColor=white" alt="koala_san"/></a>
+  </li>
+  <li>
+    <a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-111111?style=flat-square&logo=medium&logoColor=color" alt="@koalhack"/></a>
+  </li>
+</ul>
+</section>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/koalhack"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="koalhack" /></a></p><br><br>
@@ -95,4 +102,22 @@ and I always want to learn more about this noble field 🧠.</p>
     flex-wrap: wrap;
     gap: 0.5em;
   }
+
+  #connect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  #connect > ul {
+    display: flex;
+    gap: 0.8em;
+    list-style: none;
+  }
+
+  #connect > ul > li{
+    display: block;
+  }
+
 </style>
