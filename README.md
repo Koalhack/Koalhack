@@ -1,5 +1,5 @@
 <section id="banner">
-  <a href="https://github.com/Koalhack"> <img align="left" src="./assets/banner.png" alt="koalhack" /></a>
+  <a href="https://github.com/Koalhack"> <img align="center" src="./assets/banner.png" alt="koalhack" /></a>
 </section>
 
 ---
@@ -15,10 +15,11 @@
 
 <section id="intro">
   <p align="center">
-  </br>Well hello ✋, I'm Koalhack 🐨🖥️ but my real name is Alexandre Saner.</br>
-  I'm a French student, I'm 22 years old.
-  I'm passionate about computer science 💻 since I was 11 years old 👶
-  and I always want to learn more about this noble field 🧠.</p>
+    Well hello ✋, I'm Koalhack 🐨🖥️ but my real name is Alexandre Saner.
+    I'm a French student, I'm 23 years old.
+    I'm passionate about computer science 💻 since I was 11 years old 👶
+    and I always want to learn more about this noble field 🧠.
+    </p>
 </section>
 
 <section id="techStack" align="left">
@@ -117,6 +118,6 @@
 </section>
 
 <section id="support" align="center">
-  <h2>Support:</h2>
+  <h2>Support</h2>
   <a href="https://www.buymeacoffee.com/koalhack"> <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-111111?style=for-the-badge&logo=buymeacoffee&labelColor=f7d600&logoColor=white" alt="koalhack" /></a>
 </section>
