@@ -4,22 +4,32 @@
 
 ---
 
-<!--
+<section id="links" align="center">
+<a href="https://portfolio.koalhack.duckdns.org"><img src="https://img.shields.io/badge/Portfolio-DD4E21?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
+<a href="https://blog.koalhack.duckdns.org"><img src="https://img.shields.io/badge/Blog-0A0D0F?style=for-the-badge" alt="Blog" /></a>&nbsp;
+</section>
+
+<br/>
+
+<section id="intro">
+  <div>
+    <figcaption  align="center">
+      <div>
+        <cite>
+          “I have no special talents. I am only passionately curious.”
+        </cite>
+      </div>
+      ― Albert Einstein ―
+    </figcaption>
+  </div>
+</section>
+
+<br/>
+
 <section id="badge" align="center">
   <img src="https://badges.pufler.dev/visits/Koalhack/Koalhack" alt="koalhack" />
   <img src="https://badges.pufler.dev/repos/Koalhack"/>
   <img src="https://badges.pufler.dev/commits/monthly/Koalhack" />
-</p>
-  </section>
---->
-
-<section id="intro">
-  <p align="center">
-    Well hello ✋, I'm Koalhack 🐨🖥️ but my real name is Alexandre Saner.
-    I'm a French student, I'm 23 years old.
-    I'm passionate about computer science 💻 since I was 11 years old 👶
-    and I always want to learn more about this noble field 🧠.
-    </p>
 </section>
 
 <section id="techStack" align="left">
@@ -101,7 +111,8 @@
             <img src="https://img.shields.io/badge/-Windows-111111?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
             <img src="https://img.shields.io/badge/-MacOS-111111?style=flat-square&logo=apple&logoColor=white" alt="MacOS" />
             <img src="https://img.shields.io/badge/-Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=d24413" alt="Ubuntu" />
-            <img src="https://img.shields.io/badge/-Debian-111111?style=flat-square&logo=debian&logoColor=D0074E" alt="Ubuntu" />
+            <img src="https://img.shields.io/badge/-Debian-111111?style=flat-square&logo=debian&logoColor=D0074E" alt="Debian" />
+            <img src="https://img.shields.io/badge/-Proxmox-111111?style=flat-square&logo=proxmox" alt="Debian" />
             <img src="https://img.shields.io/badge/-Synology-111111?style=flat-square&logo=synology&logoColor=white" alt="Synology" />
             <img src="https://img.shields.io/badge/-Raspbian-111111?style=flat-square&logo=raspberrypi&logoColor=b2103f" alt="Raspbian" />
           </div>
@@ -109,15 +120,4 @@
       </tr>
     </tbody>
   </table
-</section>
-
-<section id="connect" align="center">
-  <h2>Connect with me 👍🗨️</h2>
-  <a href="https://dev.to/koala_san" target="blank"><img align="center" src="https://img.shields.io/badge/-Dev.to-111111?style=for-the-badge&logo=dev.to&logoColor=white" alt="koala_san"/></a>
-  <a href="https://medium.com/@koalhack" target="blank"><img align="center" src="https://img.shields.io/badge/-Medium-111111?style=for-the-badge&logo=medium&logoColor=color" alt="@koalhack"/></a>
-</section>
-
-<section id="support" align="center">
-  <h2>Support</h2>
-  <a href="https://www.buymeacoffee.com/koalhack"> <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-111111?style=for-the-badge&logo=buymeacoffee&labelColor=f7d600&logoColor=white" alt="koalhack" /></a>
 </section>
