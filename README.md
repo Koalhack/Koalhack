@@ -11,17 +11,15 @@
 
 <br/>
 
-<section id="intro">
-  <div>
-    <figcaption  align="center">
-      <div>
-        <cite>
-          “I have no special talents. I am only passionately curious.”
-        </cite>
-      </div>
-      ― Albert Einstein ―
-    </figcaption>
-  </div>
+<section id="intro" align="center">
+  <figcaption>
+    <div>
+      <cite>
+        “I have no special talents. I am only passionately curious.”
+      </cite>
+    </div>
+    ― Albert Einstein ―
+  </figcaption>
 </section>
 
 <br/>
