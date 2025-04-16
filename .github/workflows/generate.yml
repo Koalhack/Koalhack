@@ -25,5 +25,10 @@ jobs:
           git diff
           git config --global user.email "github-actions-bot@koalhack.github.io"
           git config --global user.name "Koalhack/GitHub-Actions-Bot"
-          git commit -m "Feat: Updated README" -a || echo "No changes to commit"
+          git commit -m "Chore: automated update README" -a || echo "No changes to commit"
           git push
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
