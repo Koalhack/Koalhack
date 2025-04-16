@@ -1,0 +1,48 @@
+{#key}koalhack@pc-linux {#primary}~{#} readme-init.sh
+
+                         __
+                        |  \
+ ______ ____    ______   \$$ _______
+|      \    \  |      \ |  \|       \
+| $$$$$$\$$$$\  \$$$$$$\| $$| $$$$$$$\
+| $$ | $$ | $$ /      $$| $$| $$  | $$
+| $$ | $$ | $$|  $$$$$$$| $$| $$  | $$
+| $$ | $$ | $$ \$$    $$| $$| $$  | $$
+ \$$  \$$  \$$  \$$$$$$$ \$$ \$$   \$$
+
+
+{#primary}✓{#} Connecting to repository
+{#primary}✓{#} Generation of new README
+{#primary}✓{#} Startup file display
+
+{#key}"{#secondary}I have no special talents. I am only passionately curious{#key}"
+{#border}--------------------- {#key}Albert Einstein {#border}---------------------
+
+{#border}╭──┤ {#primary}Info{#border} ├──────────────────────────────────────────────────────────────────────╮
+{#border}│                                                                                │
+{#border}│{#key}   OS            {#}Windows 10, Android 9, Arch Btw                                {#border}│
+{#border}│{#key}   Uptime        {#}24 years                                                       {#border}│
+{#border}│{#key}   Host          {#}Genetically modified Koala                                     {#border}│
+{#border}│{#key}   Kernel        {#}Full-Stack Developer, Project Manger, IT, Hacker               {#border}│
+{#border}│{#key}   Terminal      {#}Windows Terminal v1.22, Wezterm                                {#border}│
+{#border}│{#key}   Editor        {#}Neovim v0.11                                                   {#border}│
+{#border}│                                                                                │
+{#border}╰────────────────────────────────────────────────────────────────────────────────╯
+{#border}╭──┤ {#primary}Skill{#border} ├───────────────────╮ ╭───────────────────────────────────────────────╮
+{#border}│                              │ │                                               │
+{#border}│{#key}   Languages/                 {#border}│ │{#key}   - Hobbies                                   {#border}│
+{#border}│{#key}   ├─ Programming/            {#border}│ │{#key}     - Hardwares                               {#border}│
+{#border}│{#key}   │  ├─ {#}JS/TS                {#border}│ │{#key}       - {#}Soldering                             {#border}│
+{#border}│{#key}   │  ├─ {#}Golang               {#border}│ │{#key}       - {#}Electronics                           {#border}│
+{#border}│{#key}   │  ├─ {#}Python               {#border}│ │{#key}       - {#}Homelabing                            {#border}│
+{#border}│{#key}   │  ├─ {#}Arduino              {#border}│ │{#key}       - {#}PC building                           {#border}│
+{#border}│{#key}   ├─ Scripting/              {#border}│ │{#key}     - Softwares                               {#border}│
+{#border}│{#key}   │  ├─ {#}Lua                  {#border}│ │{#key}       - {#}Game Dev                              {#border}│
+{#border}│{#key}   │  ├─ {#}Bash                 {#border}│ │{#key}       - {#}Scripting                             {#border}│
+{#border}│{#key}   │  ├─ {#}Powershell           {#border}│ │{#key}     - Others                                  {#border}│
+{#border}│{#key}   ├─ Others/                 {#border}│ │{#key}       - {#}3D modeling                           {#border}│
+{#border}│{#key}   │  ├─ {#}HTML5                {#border}│ │{#key}       - {#}Cinema                                {#border}│
+{#border}│{#key}   │  ├─ {#}CSS3                 {#border}│ │{#key}       - {#}Gaming                                {#border}│
+{#border}│{#key}   │  ├─ {#}SASS                 {#border}│ │{#key}                                               {#border}│
+{#border}│                              │ │                                               │
+{#border}╰──────────────────────────────╯ ╰───────────────────────────────────────────────╯
