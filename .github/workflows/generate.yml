@@ -1,0 +1,29 @@
+name: README generation
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '23.x'
+
+      - name: Update README file
+        run: npx txt-svg -c "config.json" -i "input.txt" -o "output.svg"
+
+      - name: Commit
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "github-actions-bot@koalhack.github.io"
+          git config --global user.name "Koalhack/GitHub-Actions-Bot"
+          git commit -m "Feat: Updated README" -a || echo "No changes to commit"
+          git push
